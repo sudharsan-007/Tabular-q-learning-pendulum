@@ -19,7 +19,7 @@ By [Sudharsan Ananth](https://sudharsan-007.github.io)
 This repo contains simple python code in jupyter-notebook to invert a pendulum using Tabular Q Learning method. This implementation is similar to Reinforcement learning but there is no neural network. This code requires only Numpy and Matplotlib. The `Pendulum.py` contains animation code and physics parameters of the pendulum. And the implementation of Q-Learning is in the jupyter-notebook `tabular_q_learning_pendulum.ipynb`.
 
 
-### Augmented Reality on Live Webcam
+### Demo
 
 ![Img_output_demo](assets/demo.gif)
 
